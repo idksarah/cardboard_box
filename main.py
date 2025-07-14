@@ -43,8 +43,8 @@ def setup_cherry(pin):
     return btn
 
 button1 = setup_button(board.GP1)
-button2 = setup_button(board.GP5)
-button3 = setup_button(board.GP28)
+button2 = setup_button(board.GP28)
+button3 = setup_button(board.GP5)
 button4 = setup_button(board.GP9)
 enter = setup_cherry(board.GP22)
 escape = setup_cherry(board.GP27)
@@ -91,6 +91,8 @@ while True:
 #     for i in range(0, 65):
 #         print(i)
 #         pixels[i] = (255,255,255)
+
+
         
     pixels.show()
     if not enter.value:
@@ -111,4 +113,4 @@ while True:
             kbd.press(button_keys[btn])
             lightSection(button_nums[btn])
         prev_states[btn] = current
-    time.sleep(0.01)
+    time.sleep(0.02)
