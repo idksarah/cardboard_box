@@ -34,3 +34,5 @@ Built for **Hack Club Undercity** because we thought it'd be fun and my friend w
 ![cardboard box](img/disassembled_button.jpg)
 woiring..
 ![cardboard box](img/wiring.jpg)
+world's worst. contrapatin
+![cardboard box](img/awful_wiring.png)
