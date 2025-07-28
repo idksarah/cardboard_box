@@ -1,32 +1,32 @@
 # cardboard box
 
-A scrappy 6-button LED dance pad emulating a Dance Dance Revolution pad — can be used for rhythm games like **Friday Night Funkin'** and other 4-key movement games. Includes **Enter** and **Escape** keys on top of the standard WASD/Arrow layout.
+scrappy 6-button LED dance pad emulating a dance dance revolution pad — can be used for rhythm games like **friday night funkin'** and other 4-key games. also includes **enter** and **escape** keys on top of the standard wasd layout.
 
 ![cardboard box](img/cardboard_box.jpg)
 ![fairy](img/fairy.jpg)
 
-Built for **Hack Club Undercity** because we thought it'd be fun and my friend won't stop playing FNF IDK TBH.
+built for **hack club undercity** because my friend won't stop playing fnf lol.
 
 ---
 
 ## BOM
 
-| Item                    | Quantity | Notes                  |
+| item                    | quantity | notes                  |
 |-------------------------|----------|------------------------|
-| Orpheus Pico            | 1        | Microcontroller        |
-| Buzzers (with switches) | 4        | Act as the buttons     |
-| Jumper wires (M/F)      | —        | For wiring everything  |
-| Cables                  | —        | Any usable wires       |
-| USB-C Cable             | 1        | For power & flashing   |
-| Trash Box               | 1        | Housing / case         |
-| Solder                  | —        |                        |
-| Soldering Iron          | 1        | Required to solder     |
+| orpheus pico            | 1        | microcontroller        |
+| buzzers (with switches) | 4        | act as the buttons     |
+| jumper wires (m/f)      | —        | for wiring             |
+| cables                  | —        | any usable wires       |
+| usb-c cable             | 1        | for power & flashing   |
+| trash cardboard box     | 1        | housing / case         |
+| solder                  | —        |                        |
+| soldering Iron          | 1        | required to solder     |
 
 ---
 
-## Firmware
+## firmware
 
-- [CircuitPython for Orpheus Pico](https://circuitpython.org/board/orpheus_pico/)
+- [circuitpython for orpheus pico](https://circuitpython.org/board/orpheus_pico/)
 
 --
 ## the PROCESS
@@ -36,3 +36,4 @@ woiring..
 ![cardboard box](img/wiring.jpg)
 world's worst. contrapatin
 ![cardboard box](img/awful_wiring.jpg)
+
